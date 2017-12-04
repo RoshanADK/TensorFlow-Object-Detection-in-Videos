@@ -8,3 +8,5 @@ Then download protoc from google/proto/release and place it it same folder </br>
 place you demo.py file and input_video in research folder and Run ! </ br>
 
 ![Cheers](https://github.com/RoshanADK/TensorFlow-Object-Detection-in-Videos/blob/master/Cars%20Detect.gif)
+Note: FPS(frame per second) kept low to reduce size of file. You can increase it while training.
+
